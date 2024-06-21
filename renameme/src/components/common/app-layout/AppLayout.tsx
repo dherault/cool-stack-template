@@ -14,7 +14,7 @@ function AppLayout({ children }: PropsWithChildren) {
         >
           <Logo className="w-8" />
           <div className="text-2xl font-bold">
-            Hero Strategy
+            Rename me
           </div>
         </Link>
         <div className="grow" />

@@ -19,14 +19,14 @@ async function sendSignupEmail(user: User) {
     id: nanoid(),
     to: user.email,
     message: {
-      subject: 'Welcome to Hero Strategy!',
+      subject: 'Welcome to Rename me!',
       text: `Hi!
 
-Welcome to Hero Strategy! We're excited to have you on board.
+Welcome to Rename me! We're excited to have you on board.
 
 Best,
 
-David from Hero Strategy`,
+David from Rename me`,
     },
     userId: user.id,
     createdAt: now,

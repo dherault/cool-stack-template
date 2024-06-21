@@ -17,7 +17,7 @@ function LandingFooter() {
           Home
         </Link>
         <a
-          href="https://blog.herostrategy.com"
+          href="https://blog.renameme.com"
           target="_blank"
           rel="noreferrer noopener"
           className="block text-blue font-medium"

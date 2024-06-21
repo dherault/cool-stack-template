@@ -18,7 +18,7 @@ function Layout({ children }: PropsWithChildren) {
             <Logo className="w-16" />
           </div>
           <h1 className="mt-2 text-4xl text-center font-semibold text-blue">
-            Hero Strategy
+            Rename me
           </h1>
           <div className="text-[20.2px] text-center text-neutral-500 font-medium">
             Strategy suit for startups

@@ -24,7 +24,7 @@ function LandingNav() {
       >
         <Logo className="h-[40px]" />
         <div className="text-3xl font-bold">
-          Hero Strategy
+          Rename me
         </div>
       </Link>
       <div className="-ml-4 grow" />
@@ -45,7 +45,7 @@ function LandingNav() {
           </div>
         </Link>
         <a
-          href="https://blog.herostrategy.com"
+          href="https://blog.renameme.com"
           target="_blank"
           rel="noreferrer noopener"
         >
@@ -98,7 +98,7 @@ function LandingNav() {
                   </DrawerClose>
                 </Link>
                 <a
-                  href="https://blog.herostrategy.com"
+                  href="https://blog.renameme.com"
                   target="_blank"
                   rel="noreferrer noopener"
                 >

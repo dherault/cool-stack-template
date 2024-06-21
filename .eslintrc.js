@@ -3,7 +3,6 @@ module.exports = {
   extends: ['dherault-typescript'],
   rules: {
     'newline-per-chained-call': 'off',
-    'no-eval': 'off',
     'jsx-a11y/no-autofocus': 'off',
     'jsx-a11y/control-has-associated-label': 'off',
     'import/order': [
