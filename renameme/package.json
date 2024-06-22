@@ -15,7 +15,6 @@
     "deploy-rules": "firebase deploy --only firestore:rules,storage"
   },
   "dependencies": {
-    "@dnd-kit/sortable": "^8.0.0",
     "@hookform/resolvers": "^3.6.0",
     "@radix-ui/react-accordion": "^1.2.0",
     "@radix-ui/react-avatar": "^1.1.0",
@@ -38,7 +37,6 @@
     "cmdk": "^1.0.0",
     "date-fns": "^3.6.0",
     "firebase": "^10.12.2",
-    "html-to-image": "^1.11.11",
     "logrocket": "^8.1.0",
     "logrocket-react": "^6.0.3",
     "lucide-react": "^0.395.0",
